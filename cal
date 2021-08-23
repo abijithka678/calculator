@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+int numop,num1,num2,sum,subtraction,multiply;
 
 return 0;
 }
