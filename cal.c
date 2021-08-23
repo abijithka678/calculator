@@ -3,6 +3,7 @@ int main()
 {
 int numop,num1,num2,sum,subtraction,multiply;
 float Division,val1,val2;
+printf("Choose any of the operation");
 printf("1.Addition");
 	printf("\n");
 	printf("2.Subtraction");
